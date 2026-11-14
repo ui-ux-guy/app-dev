@@ -1,2 +1,2 @@
-# app-dev
-My First Repository
+1. Greyhound
+2. All about war in the pacific
